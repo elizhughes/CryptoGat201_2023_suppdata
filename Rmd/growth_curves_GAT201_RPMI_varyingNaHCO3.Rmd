@@ -13,7 +13,7 @@ output:
 
 # Summary
 
-This experiments tests the effect of sodium bicarbonate (NaHCO3) on growth of Cryptococcus neoformans.
+This experiment tests the effect of sodium bicarbonate (NaHCO3) on growth of Cryptococcus neoformans.
 
 Plate reader growth curves of  WT KN99-alpha and gat201∆ deletion mutant Madhani in RPMI media with no phenol red, and varying NaHCO3 concentrations.
 
